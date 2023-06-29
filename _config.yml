@@ -1,0 +1,5 @@
+theme: minima
+title: Association for Ontology Design & Patterns
+show_downloads: false
+minima:
+  skin: solarized-light
