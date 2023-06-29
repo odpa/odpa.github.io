@@ -1,4 +1,3 @@
-# Association for Ontology Design and Patterns
 Welcome to the main page of the Association for Ontology Design & Patterns (ODPA). The ODPA’s goals are to promote high-quality ontology design and engineering, with a focus on methods and tools arising out of ontology design patterns. In particular, the ODPA
 
 * runs an annual workshop on ontology design and patterns (WOP),
